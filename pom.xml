@@ -6,7 +6,7 @@
 	<version>1.0.0</version>
 	<packaging>war</packaging>
 	<name>Hello World  Application Repository</name>
-	<description> Simplest Webapp</description>
+	<description> This is Simplest Webapp</description>
 
 	<build>
 		<plugins>
