@@ -6,7 +6,7 @@
 	<version>1.0.0</version>
 	<packaging>war</packaging>
 	<name>Hello World Web Application Repository</name>
-	<description>test for Simplest Java Webapp</description>
+	<description>test Simplest Java Webapp</description>
 
 	<build>
 		<plugins>
